@@ -1,1 +1,3 @@
-kjwhjfhhfewgfgshcsvshjcdgsfsgkdjadgsjdxbcvxvshdgj
+Hi
+Welcome to Git commands
+this is updated file
